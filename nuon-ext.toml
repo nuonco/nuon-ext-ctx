@@ -1,0 +1,7 @@
+[extension]
+name = "ctx"
+description = "Switch between nuon CLI configurations"
+
+[extension.auth]
+requires_token = false
+requires_org = false
