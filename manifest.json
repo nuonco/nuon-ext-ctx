@@ -1,0 +1,16 @@
+{
+  "name": "ctx",
+  "description": "Switch between nuon CLI configurations",
+  "repo": "nuonco/nuon-ext-ctx",
+  "version": "0.0.1",
+  "tag": "0.0.1",
+  "installed_at": "2026-04-22T00:00:00Z",
+  "updated_at": "2026-04-22T00:00:00Z",
+  "binary": "",
+  "type": "script",
+  "entrypoint": "nuon-ext-ctx",
+  "platform": "darwin/arm64",
+  "min_cli_version": "",
+  "requires_token": false,
+  "requires_org": false
+}
