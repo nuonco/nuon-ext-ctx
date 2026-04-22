@@ -23,6 +23,12 @@ USAGE:
   nuon ctx -V, --version         : show version
 ```
 
+## Install
+
+```bash
+nuon ext install ctx
+```
+
 ## Getting started
 
 If you already have a `~/.nuon` config file, save it as a named context:
@@ -45,7 +51,6 @@ Now switch between them:
 ```bash
 nuon ctx production
 nuon ctx staging
-nuon ctx -        # switch back to previous
 ```
 
 ## Building
